@@ -5,5 +5,3 @@ EGL, mmal, GLESv2, vcos, openmaxil, vchiq_arm, bcm_host, WFC, OpenVG.
 Use buildme to build. It requires cmake to be installed and an arm cross compiler. It is set up to use this one:
 https://github.com/raspberrypi/tools/tree/master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian
 
-
-fdklsafjkldsajfdsaf
